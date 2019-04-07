@@ -2,7 +2,14 @@
 #include <stdlib.h>
 #include <conio.h>
 
+/** 40/80 **/
 
+/** 
+Falta borrar calificacion -10
+Falta cal prom por materia -10
+Falta cal prom est en una materia -10
+Falta cant horas practicas -10 
+**/
 
 struct estudiantes{
   char nombre[20];
